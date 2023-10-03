@@ -34,10 +34,11 @@
 
 **Modelo de Classificação:**
 
-  *Etapa 1:* Compreensão dos Dados
-    i. Descrição dos Atributos e o tipo dessa coluna.
+  *Etapa 1:* Compreensão dos Dados (Realizado)
+    i. Descrição dos Atributos. (Realizado)
   
   *Etapa 2:* Preparação dos Dados
+    Renomear colunas (Realizado)
     i. Quantidade de dados;
     ii. Verificação da Quantidade de dados nulos;
     iii. Preechimento(ou Exclusão) dos dados nulos;
