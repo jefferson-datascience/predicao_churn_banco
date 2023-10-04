@@ -40,14 +40,14 @@
   *Etapa 2:* Preparação dos Dados
     Renomear colunas (Realizado)
     i. Quantidade de dados;
-    ii. Verificação da Quantidade de dados nulos;
-    iii. Preechimento(ou Exclusão) dos dados nulos;
-    iv. Verificação da natureza das variáveis e mudança da natureza dessas variáveis.
-    v. Estatística Descritiva dos dados;
-    vi. Analise descritiva e relatorio resumidos
+    ii. Verificação da Quantidade de dados nulos;(Realizado)
+    iii. Preechimento(ou Exclusão) dos dados nulos;(Realizado)
+    iv. Verificação da natureza das variáveis e mudança da natureza dessas variáveis.(Realizado)
+    v. Estatística Descritiva dos dados; (Realizado)
+    vi. Analise descritiva e relatorio resumidos(Realizado)
 
-  *Etapa 3:*
-    i. Identificar a variável alvo.
+  *Etapa 3: Feature Engineering*
+    i. Identificar a variável alvo. (Realizado)
     ii. Aprofundamento no negócios.
     iii. Hipótese de Negócios.
 
