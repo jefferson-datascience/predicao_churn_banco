@@ -48,11 +48,11 @@
 
   *Etapa 3: Feature Engineering*
     i. Identificar a variável alvo. (Realizado)
-    ii. Aprofundamento no negócios.
-    iii. Hipótese de Negócios.
+    ii. Aprofundamento no negócios. (Realizado)
+    iii. Hipótese de Negócios. (Realizado)
 
   *Etapa 4:* Análise Exploratória dos Dados
-    i. Análise Univariada: verificação da dispersão dos dados e dos outliers;
+    i. Análise Univariada: verificação da dispersão dos dados e dos outliers; (Em construção)
     ii. Análise Multivariada: verificaçaõ da multivariedade de dados numéricos e categóricos
     iii. Responder algumas questões de negócios;
     iv. Resumo das variáveis que trazem mais informação sobre a variável alvo.
