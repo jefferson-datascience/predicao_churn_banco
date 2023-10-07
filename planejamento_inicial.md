@@ -52,8 +52,8 @@
     iii. Hipótese de Negócios. (Realizado)
 
   *Etapa 4:* Análise Exploratória dos Dados
-    i. Análise Univariada: verificação da dispersão dos dados e dos outliers; (Em construção)
-    ii. Análise Multivariada: verificaçaõ da multivariedade de dados numéricos e categóricos
+    i. Análise Univariada: verificação da dispersão dos dados e dos outliers; (Realizado)
+    ii. Análise Multivariada: verificaçaõ da multivariedade de dados numéricos e categóricos(Em construção)
     iii. Responder algumas questões de negócios;
     iv. Resumo das variáveis que trazem mais informação sobre a variável alvo.
 
