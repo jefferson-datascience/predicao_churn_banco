@@ -58,12 +58,12 @@
     iv. Resumo das variáveis que trazem mais informação sobre a variável alvo.(Realizado)
 
   *Etapa 5:* Modelagem dos Dados
-    i. Padronização dos Dados;
-    ii. Normalização dos Dados;
-    iii. Encoding dos Dados;
+    i. Padronização dos Dados;(realizado)
+    ii. Normalização dos Dados;(Realizado)
+    iii. Encoding dos Dados;(Realizado)
 
   *Etapa 6:* Seleção da Features;
-    i. Escolhas das variáveis com maior ganho de informação da variável resposta.
+    i. Escolhas das variáveis com maior ganho de informação da variável resposta.(Em construção)
     ii. Análise final das variáveis escolhidas por modelos, junto com a análise descritiva;
 
   *Etapa 7*: Treinamento dos Modelos
