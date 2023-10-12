@@ -62,11 +62,11 @@
     ii. Normalização dos Dados;(Realizado)
     iii. Encoding dos Dados;(Realizado)
 
-  *Etapa 6:* Seleção da Features;
+  *Etapa 6:* Seleção da Features;(Realizado)
     i. Escolhas das variáveis com maior ganho de informação da variável resposta.(Em construção)
     ii. Análise final das variáveis escolhidas por modelos, junto com a análise descritiva;
 
-  *Etapa 7*: Treinamento dos Modelos
+  *Etapa 7*: Treinamento dos Modelos(Em construção)
     i. Separação dos Dados entre Treino, Teste e Validação.
     ii. Treino com Vários Modelos de Classificação
     iii. Verificar performance analisando das métricas de Precisão, Recuperação, f1, matriz de confusão, curva de lift e curva de ganho
