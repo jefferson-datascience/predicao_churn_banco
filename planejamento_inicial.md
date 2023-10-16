@@ -66,11 +66,11 @@
     i. Escolhas das variáveis com maior ganho de informação da variável resposta.(Em construção)
     ii. Análise final das variáveis escolhidas por modelos, junto com a análise descritiva;
 
-  *Etapa 7*: Treinamento dos Modelos(Em construção)
-    i. Separação dos Dados entre Treino, Teste e Validação.
-    ii. Treino com Vários Modelos de Classificação
-    iii. Verificar performance analisando das métricas de Precisão, Recuperação, f1, matriz de confusão, curva de lift e curva de ganho
-    iv. Análise final para escolha do melhor modelo.
+  *Etapa 7*: Treinamento dos Modelos(Realizado)
+    i. Separação dos Dados entre Treino, Teste e Validação.(Realizado)
+    ii. Treino com Vários Modelos de Classificação(Realizado)
+    iii. Verificar performance analisando das métricas de Precisão, Recuperação, f1, matriz de confusão, curva de lift e curva de ganho(Realizado)
+    iv. Análise final para escolha do melhor modelo.(Realizado)
 
   *Etapa 8:* Hiper Parametrização do Modelo
     i. Fine Tunning para determinar os melhores parâmetros e aumentar a performance do modelo.
