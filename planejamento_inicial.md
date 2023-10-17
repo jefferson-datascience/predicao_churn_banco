@@ -79,7 +79,7 @@
   *Etapa 9:* Entregas
     i. Modelo Final.(Realizado)
     ii. Lista com os clientes classificados com a probabilidade de encerramento de conta.(Realizado)
-    iii. Construção da API para o treino do modelo.
+    iii. Construção da API.
     iv. Construção da Planilha via google sheets.
 
 
