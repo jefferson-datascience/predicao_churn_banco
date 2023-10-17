@@ -73,12 +73,12 @@
     iv. Análise final para escolha do melhor modelo.(Realizado)
 
   *Etapa 8:* Hiper Parametrização do Modelo
-    i. Fine Tunning para determinar os melhores parâmetros e aumentar a performance do modelo.
-    ii. Retreino final com todos os dados.
+    i. Fine Tunning para determinar os melhores parâmetros e aumentar a performance do modelo.(Realizado)
+    ii. Retreino final com todos os dados.(Realizado)
 
   *Etapa 9:* Entregas
-    i. Modelo Final.
-    ii. Lista com os clientes classificados com a probabilidade de encerramento de conta.
+    i. Modelo Final.(Realizado)
+    ii. Lista com os clientes classificados com a probabilidade de encerramento de conta.(Realizado)
     iii. Construção da API para o treino do modelo.
     iv. Construção da Planilha via google sheets.
 
